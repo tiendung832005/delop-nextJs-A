@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div>deploy nextJs</div>
+    <div>deploy nextJs basic</div>
   )
 }
